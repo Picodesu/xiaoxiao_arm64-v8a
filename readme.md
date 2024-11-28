@@ -5,11 +5,11 @@ Language（语言）:
 | 英语                 | [Simplified Chinese](https://github.com/Picodesu/xiaoxiao_arm64-v8a/blob/main/readme-zh.md)  |
 
 # xiaoxiao_arm64-v8a
-## Add the arm64-v8a ABI \*.so file to xiaoxiao Application to support only-64-bit systems to run it on the latest only-64-bit devices and systems.
+## Add the arm64-v8a ABI \*.so file to xiaoxiao Application to support 64-bit-only systems to run it on the latest 64-bit-only devices and systems.
 ![xiaoxiao_arm64-v8a](/img/xiaoxiao_arm64-v8a.jpg)
 - official package name of xiaoxiao application apk:com.www784035275.ofy
 - This repository is not an official repository, nor is it an open source repository. The files in the repository are for learning and communication purposes only, and cannot be used commercially without the author's permission, so please delete them within 24 hours after downloading.
-- Multi-site:Github(this site),[Gitee](https://gitee.com/picodesu/xiaoxiao_arm64-v8a) and [GitCode](https://gitcode.com/Picodesu/xiaoxiao_arm64-v8a/overview)
+- Multi-site:Github(this site) and [Gitee](https://gitee.com/picodesu/xiaoxiao_arm64-v8a)
 - Modify the package name and signature to prevent the system from misrepresenting the inability to install by manual pro-testing or mistake it as virus.
 - Issues caused by translation differences are subject to the Chinese text
 ## 1.What devices are supported?

@@ -9,7 +9,7 @@
 ![xiaoxiao_arm64-v8a](/img/xiaoxiao_arm64-v8a.jpg)
 - 校校app官方包名:com.www784035275.ofy
 - 本仓库非官方仓库，亦非开源仓库。仓库中的文件仅供学习交流使用，未经原作者许可不得商用，下载后请在24小时内删除。*
-- 多网页:Github（本站）、[Gitee](https://gitee.com/picodesu/xiaoxiao_arm64-v8a)、[GitCode](https://gitcode.com/Picodesu/xiaoxiao_arm64-v8a/overview)
+- 多网页:Github（本站）、[Gitee](https://gitee.com/picodesu/xiaoxiao_arm64-v8a)
 - 修改包名、签名，以防系统误报人工亲测无法安装和病毒。
 ## 1.支持哪些设备？
 - 仅支持arm芯片搭载Android系统（包括华为鸿蒙4.x及之前）的设备(常见芯片厂:高通骁龙、联发科天玑、华为海思）
