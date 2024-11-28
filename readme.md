@@ -6,6 +6,7 @@ Language（语言）:
 
 # xiaoxiao_arm64-v8a
 ## Add the arm64-v8a ABI \*.so file to xiaoxiao Application to support only-64-bit systems to run it on the latest only-64-bit devices and systems.
+![xiaoxiao_arm64-v8a](/img/xiaoxiao_arm64-v8a.jpg)
 - official package name of xiaoxiao application apk:com.www784035275.ofy
 - This repository is not an official repository, nor is it an open source repository. The files in the repository are for learning and communication purposes only, and cannot be used commercially without the author's permission, so please delete them within 24 hours after downloading.
 - Multi-site:Github(this site),[Gitee](https://gitee.com/picodesu/xiaoxiao_arm64-v8a) and [GitCode](https://gitcode.com/Picodesu/xiaoxiao_arm64-v8a/overview)
