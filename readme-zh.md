@@ -24,7 +24,7 @@
 ## arm64-v8a所用so文件源:
 仓库中已放对应so文件，也可自行溯源下载打包。
 ### libjcore216.so
-- 属于极光推送SDK(v3.3.8 2019-10-17到v3.4.0 2019-11-15,下一版本v3.4.1 2019-11-26起使用不同so 文件），[官网](https://www.jiguang.cn/sdk-download） 已不可下载。
+- 属于极光推送SDK(v3.3.8 2019-10-17到v3.4.0 2019-11-15,下一版本v3.4.1 2019-11-26起使用不同so 文件），[官网](https://www.jiguang.cn/sdk-download) 已不可下载。
 - 受[Github搜索结果](https://github.com/Behavior-speaks-loader/Behavior-speaks-loader/blob/5771d0793bb012ba1dde1d3a6ff57f73375fa967/Dataset/dataset/140fd50752a72863cea13f6c1b460cf79a88353a9ee8e1361d000c34f34a62dc/140fd50752a72863cea13f6c1b460cf79a88353a9ee8e1361d000c34f34a62dc_behavior.txt#L631)（631行）启发，从互联网下载的[com.rjjmc.newscratch](https://m.87g.com/az/105746.html)提取
 ### libRongIMLib.so、libRongRTCso.so、libsqlite.so
 - 属于[融云SDK](https://www.rongcloud.cn/devcenter?type=sdk)。根据libjcore216.so时间估计，选用2.10.4 Stable版本，[官网已不再维护2.x版本](https://doc.rongcloud.cn/im/Android/2.X/prepare)，并且不提供下载。
